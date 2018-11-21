@@ -1,6 +1,6 @@
 ## Microservice example using undertow
 
-This is an example of a microservice, implementing Undertow embeded server, project requires JDK 1.8+ and maven. You can read more about undertow here:
+This is an example of a microservice, implementing Undertow embedded server, project requires JDK 1.8+ and maven. You can read more about undertow here:
 
 http://undertow.io/
 
